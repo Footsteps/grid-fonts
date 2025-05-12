@@ -44,3 +44,5 @@ styling the quote:
     text-align: center;
     font-family: Raleway, sans-serif;
 }
+
+place-items: align-items und justify-items at the same time. 
